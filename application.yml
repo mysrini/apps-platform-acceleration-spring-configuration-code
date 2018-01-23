@@ -7,5 +7,5 @@ eureka:
 
 security:
  basic:
-  enabled: true
+  enabled: false
 
